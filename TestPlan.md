@@ -1,23 +1,25 @@
 # Test Plan – OpenCart Login Feature
+**Project Name:** OpenCart Manual Testing
+**Module Name:** Login
+**Test Type:** Manual Testing
 
+## Test Environment
+
+* Browser: Google Chrome
+* OS: Windows
+* Application URL: https://www.opencart.com/index.php?route=account/login
+
+  
 ## Objective
 
 To verify the functionality of the login feature.
 
-## Scope
+## Test Approach
 
 Testing Login functionality including validation and password reset.
 
-## Test Type
 
-Manual Testing
-
-## Test Environment
-
-Browser: Google Chrome
-OS: Windows
-
-## Features to Test
+## Scope
 
 * Valid login
 * Invalid login
