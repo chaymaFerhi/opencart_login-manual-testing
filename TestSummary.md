@@ -1,24 +1,22 @@
-# Test Summary Report
+# Test Summary Report - Login
 
-## Project
+**Project Name:** OpenCart Manual Testing
+**Module:** Register
 
-OpenCart Login Testing
+## Test Execution Summary
+Total Test Cases: 8
+Passed: 8
+Failed: 1
+Blocked: 0
 
-## Total Test Cases
-
-9
-
-## Passed
-
-8
-
-## Failed
-
-0
 
 ## Bugs Identified
 
 0
+## Defects Found
+High: 0
+Medium: 0
+Low: 0
 
 ## Observation
 
